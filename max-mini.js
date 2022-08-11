@@ -6,5 +6,5 @@
 const numbers = [44, 45, 77, 54, 86, 1];
 for (let i = 0; i < numbers.length; i++) {
     // const element = numbers[i];
-    console.log();
+    // console.log(numbers);
 }
