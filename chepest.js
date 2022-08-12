@@ -13,5 +13,5 @@ function animalCount(miles) {
         return totalAnimals;
     }
 }
-const animalWatch = animalCount(13);
+const animalWatch = animalCount(19);
 console.log(animalWatch);
